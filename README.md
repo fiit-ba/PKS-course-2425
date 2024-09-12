@@ -1,2 +1,11 @@
-# PKS-course-2425
-Počítačové a komunikačné siete (Computer and Communication Networks) pre ak
+# Computer and Communication Networks - Počítačové a komunikačné siete (PKS) 2024/2025
+
+# Introduction to computer networks
+
+### [Lectures / Prednášky](/lectures)
+
+### [Exercises / Cvičenia](/exercises)
+
+### [Assignments / Zadania](/assignments)
+
+### [Course conditions / Podmienky na absolvovanie predmetu](/others)
