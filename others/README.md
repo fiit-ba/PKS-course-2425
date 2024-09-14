@@ -25,7 +25,7 @@
   <tr>
     <td>AIS Test - analýza rámcov</td>
     <td>5</td>
-    <td>2.5</td>
+    <td>2,5</td>
   </tr>
   <tr>
     <td>PT Test - subnetting</td>
