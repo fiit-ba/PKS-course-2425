@@ -110,6 +110,10 @@ Záverečný test možno nahradiť úspešným absolvovaním CCNA1 alebo získan
 
 Tí z vás, ktorí plánujú **absolvovať** kurz **CCNA1 počas semestra**, sa prosím **prihláste na** kurz prostredníctvom tohto [**odkazu**](https://netacad.fiit.stuba.sk/registracia), kde si vyberiete z ponuky akademický program, CCNA 1 pre študentov PKS a vyplníte svoje osobné údaje.
 
+### Účasť na cvičeniach
+
+Študent môže vynechať jedno cvičenie počas semestra bez ospravedlnenia. Platí to iba pre tie cvičenia, kde sa nepíše test, neprebieha kontrolný bod alebo sa neodovzdáva finálne zadanie.
+
 ### Výsledné hodnotenie
 
 Výsledné hodnotenie, podľa klasifikačnej stupnice, je určené na základe celkového počtu získaných bodov (cvičenia + zadanie + záverečný test) a splnenia vyššie uvedených podmienok.
@@ -149,3 +153,7 @@ Pochopiť základné koncepcie počítačových sietí, komunikačných funkcií
 **Nečestné konanie** študenta pri akejkoľvek študijnej povinnosti, plagiátorstvo,
 preukázateľné zistené odpisovanie, použitie nedovolených pomôcok a iných praktík nie
 je povolené, takto získaný výsledok sa neuznáva a následne hodnotenie predmetu **je FX**.
+
+## Oficiálna komunikácia
+
+Na komunikáciu primárne používajte [MS Teams](https://teams.microsoft.com/l/team/19%3aXO2wvDM51a-b-LRciZpA9e5d_s_YGGa9wcr4cIZ3ptk1%40thread.tacv2/conversations?groupId=9c34ca18-0717-4937-8cf6-65758ba4a501&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06) v rámci PKS, ktorý bol zriadený na tento účel.
