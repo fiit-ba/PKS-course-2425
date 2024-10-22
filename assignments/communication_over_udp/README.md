@@ -2,11 +2,11 @@
 
 ## **Cieľ zadania**
 
-Navrhnúť a implementovať P2P aplikáciu využívajúcu vlastný protokol postavený nad UDP (User Datagram Protocol) v transportnej vrstve sieťového modelu TCP/IP. Aplikácia bude umožňovať komunikáciu dvoch účastníkov v lokálnej Ethernet sieti, vrátane výmeny textu a prenosu ľubovoľných súborov medzi počítačmi (uzlami). Oba uzly budú fungovať súčasne ako prijímač aj odosielateľ.
+Navrhnúť a implementovať P2P(PEER-TO-PEER) aplikáciu využívajúcu vlastný protokol postavený nad UDP (User Datagram Protocol) v transportnej vrstve sieťového modelu TCP/IP. Aplikácia bude umožňovať komunikáciu dvoch účastníkov v lokálnej Ethernet sieti, vrátane výmeny textu a prenosu ľubovoľných súborov medzi počítačmi (uzlami). Oba uzly budú fungovať súčasne ako prijímač aj odosielateľ.
 
 Zadanie pozostáva z dvoch častí: teoretickej a praktickej. V teoretickej časti navrhnete vlastný protokol nad UDP. V praktickej časti následne implementujete a predvediete jeho funkčnosť pri komunikácii medzi dvoma uzlami, pričom zdôrazníte úpravy vykonané počas implementácie v porovnaní s pôvodným návrhom.
 
-## **Teoretická časť - návrh protokolu (6 bodov)**
+## **Teoretická časť - návrh protokolu**
 
 Požiadavky na návrh protokolu sú nasledovné:
 
@@ -28,7 +28,7 @@ Výstupom tejto časti je dokumentácia, v ktorej predstavíte návrh svojho pro
 
 Pri hodnotení sa zohľadňuje prehľadnosť a zrozumiteľnosť odovzdanej dokumentácie ako aj kvalita navrhovaného riešenia. Dokumentácia musí obsahovať aj formálne časti ako úvodnú stranu, obsah, číslovanie strán atď. Konkrétnejšie informácie o jednotlivých požiadavkách na program nájdete v praktickej časti.
 
-## **Praktická časť - implementácia p2p komunikátora (19 bodov vrátane doimplementácie)**
+## **Praktická časť - implementácia p2p komunikátora + doimplementácie**
 
 V tejto časti implementujte P2P komunikátor podľa vášho návrhu, pričom zohľadnite pripomienky z kontrolného bodu. Vaše hodnotenie bude založené na splnení nasledujúcich úloh:
 

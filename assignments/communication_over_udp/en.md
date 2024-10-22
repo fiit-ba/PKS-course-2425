@@ -2,11 +2,11 @@
 
 ## **Assignment Objective**
 
-Design and implement a P2P application with a custom protocol built on top of UDP (User Datagram Protocol) at the transport layer of the TCP/IP network model. The application will allow communication between two participants in a local Ethernet network, including text exchange and the transfer of arbitrary files between computers (nodes). Both nodes will function simultaneously as both receivers and senders.
+Design and implement a P2P(PEER-TO-PEER) application with a custom protocol built on top of UDP (User Datagram Protocol) at the transport layer of the TCP/IP network model. The application will allow communication between two participants in a local Ethernet network, including text exchange and the transfer of arbitrary files between computers (nodes). Both nodes will function simultaneously as both receivers and senders.
 
 The assignment consists of two parts: theoretical and practical. In the theoretical part, you will design your protocol over UDP. In the practical part, you will implement and demonstrate its functionality in communication between two nodes. You will also highlight the adjustments made during implementation compared to the original proposal.
 
-## **Theoretical part - Protocol Design (6 points)**
+## **Theoretical part - Protocol Design**
 
 The requirements for the protocol design are as follows:
 
@@ -28,7 +28,7 @@ The output of this section is documentation in which you will present the design
 
 The evaluation will consider the clarity and comprehensibility of the submitted documentation and the quality of the proposed solution. The documentation must also include formal parts such as a cover page, table of contents, page numbering, etc. The practical section provides more specific information about individual program requirements.
 
-## **Practical part - implementation of P2P communicator (19 points including additional implementation)**
+## **Practical part - implementation of P2P communicator + additional implementation**
 
 In this section, implement the P2P communicator according to your design, taking into account the feedback from the checkpoint. Your evaluation will be based on the fulfillment of the following tasks:
 
