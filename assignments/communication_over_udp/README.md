@@ -36,8 +36,8 @@ V tejto časti implementujte P2P komunikátor podľa vášho návrhu, pričom zo
 
 Vytvoriť P2P spojenie medzi dvoma uzlami, dohodnutie si parametrov spojenia a overiť funkčnosť spojenia odoslaním textu v oboch smeroch komunikácie. Používateľské rozhranie na každom uzle musí umožňovať nastaviť nasledovné parametre:
 
-- port na ktorom uzol počúva,
-- IP adresu a port na cieľový uzol na ktorý sa bude posielať text/súbor.
+- port, na ktorom uzol počúva,
+- IP adresu a port na cieľový uzol, na ktorý sa bude posielať text/súbor.
 
 Prezentovať úspešný prenos prostredníctvom Wireshark(WS) tak, aby ste vedeli identifikovať správy patriace vášmu protokolu v správnom poradí a vedeli ukázať jednotlivé polia vášho protokolu.
 
